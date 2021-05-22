@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @JoseCarlosZamoraGomez
-- 👀 I'm interested in healthy lifestyle, languages, web design and development and UX / UI design
-- 🌱 I’m currently learning english, portuguese, web development and UX / UI design 
+- 👀 I'm interested in healthy lifestyle, languages, web development, UX/UI design and IT support
+- 🌱 I’m currently learning english, portuguese, web development, UX/UI design and IT support 
 - 📫 How to reach me JoseCarlosZamoraGomez@outlook.com
 
 <!---
