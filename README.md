@@ -8,7 +8,8 @@ La tecnología es otra de mis grandes pasiones. Me encanta estar al tanto de las
 
 Siempre estoy dispuesto a compartir ideas, proyectos y experiencias. Si compartes algunas de estas inquietudes o simplemente deseas conversar, ¡estaré encantado de conectar contigo!
 
-Puedes contactarme en: JoseCarlosZamoraGomez2018@gmail.com
+Puedes contactarme en: josecarloszamoragomez2018@gmail.com
+
 <!---
 JoseCarlosZamoraGomez/JoseCarlosZamoraGomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
