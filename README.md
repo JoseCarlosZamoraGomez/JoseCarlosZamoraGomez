@@ -1,15 +1,13 @@
-¡Hola! Soy @JoseCarlosZamoraGomez 👋
+👋 ¡Hola! Soy @JoseCarlosZamoraGomez
+Apasionado por el aprendizaje continuo, la tecnología y el crecimiento personal. Creo firmemente que una mente activa y un cuerpo saludable son claves para enfrentar los desafíos con energía y enfoque.
 
-Me apasiona el aprendizaje continuo y el crecimiento personal. Creo que llevar un estilo de vida saludable, cuidando tanto la mente como el cuerpo, es esencial para enfrentar nuevos desafíos con energía y claridad.
+🔹 Actualmente estoy perfeccionando mi inglés y ampliando mis conocimientos en áreas como el desarrollo de software y herramientas digitales.
+🔹 Me interesa la transformación digital como motor para mejorar nuestra calidad de vida y generar nuevas oportunidades.
+🔹 Disfruto aprender, compartir ideas y colaborar en proyectos con propósito.
 
-Disfruto aprender nuevos idiomas y actualmente estoy profundizando mis conocimientos en inglés, lo que me permite conectar con diversas culturas y acceder a nuevas oportunidades de aprendizaje.
+Abierto a nuevas conexiones, ideas y colaboraciones. Escríbeme cuando quieras.
 
-La tecnología es otra de mis grandes pasiones. Me encanta estar al tanto de las últimas tendencias e innovaciones, ya que considero que la transformación digital es clave para mejorar nuestra calidad de vida y abrir nuevas posibilidades.
-
-Siempre estoy dispuesto a compartir ideas, proyectos y experiencias. Si compartes algunas de estas inquietudes o simplemente deseas conversar, ¡estaré encantado de conectar contigo!
-
-Puedes contactarme en: josecarloszamoragomez2018@gmail.com
-
+📫 Contacto: josecarloszamoragomez2018@gmail.com
 <!---
 JoseCarlosZamoraGomez/JoseCarlosZamoraGomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
