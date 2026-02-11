@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Carlos Zamora (Charly)
+# 👋 Hola, soy José Carlos Zamora Gómez (Charly)
 
 💻 **Junior Frontend Developer**  
 🌱 Actualmente aprendiendo **HTML, CSS y JavaScript**
