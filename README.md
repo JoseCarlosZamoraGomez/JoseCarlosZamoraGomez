@@ -1,16 +1,51 @@
-👋 ¡Hola! Soy @JoseCarlosZamoraGomez
+# 👋 Hola, soy José Carlos Zamora (Charly)
 
-Apasionado por el aprendizaje continuo, la tecnología y el crecimiento personal. Creo firmemente que una mente activa y un cuerpo saludable son claves para enfrentar los desafíos con energía y enfoque.
+💻 **Junior Frontend Developer**  
+🌱 Actualmente aprendiendo **HTML, CSS y JavaScript**
 
-🔹 Actualmente estoy perfeccionando mi inglés y ampliando mis conocimientos en áreas como el desarrollo de software y herramientas digitales.
+---
 
-🔹 Me interesa la transformación digital como motor para mejorar nuestra calidad de vida y generar nuevas oportunidades.
+## 🚀 Sobre mí
+Soy un desarrollador frontend junior retomando mi camino en la programación con enfoque en construir bases sólidas.  
+Me interesa crear interfaces limpias, funcionales y mejorar continuamente a través de la práctica y proyectos reales.
 
-🔹 Disfruto aprender, compartir ideas y colaborar en proyectos con propósito.
+Creo firmemente en el aprendizaje constante, la disciplina y el crecimiento paso a paso.
 
-Abierto a nuevas conexiones, ideas y colaboraciones. Escríbeme cuando quieras.
+---
 
-📫 Contacto: josecarloszamoragomez2018@gmail.com
+## 🛠️ Tecnologías que estoy aprendiendo
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub
+
+---
+
+## 📂 Proyectos destacados
+Aquí encontrarás proyectos enfocados en:
+- Maquetación web
+- Sitios personales y portafolios
+- Prácticas de frontend básico
+
+Cada proyecto representa una etapa de mi aprendizaje 🚧
+
+---
+
+## 🎯 Objetivo actual
+Seguir fortaleciendo mis fundamentos en frontend y comenzar a trabajar con frameworks y buenas prácticas de desarrollo web.
+
+---
+
+## 🤝 Conectemos
+📍 Parramos, Guatemala  
+📧 **Email:** josecarloszamoragomez2018@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-carlos-zamora-g%C3%B3mez  
+🎨 **Behance:** https://www.behance.net/JoseCarlosZamoraGomez
+
+---
+
+⭐ Gracias por visitar mi perfil
+
 <!---
 JoseCarlosZamoraGomez/JoseCarlosZamoraGomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
