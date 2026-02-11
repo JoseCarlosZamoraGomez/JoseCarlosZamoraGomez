@@ -39,8 +39,8 @@ Seguir fortaleciendo mis fundamentos en frontend y comenzar a trabajar con frame
 ## 🤝 Conectemos
 📍 Parramos, Guatemala  
 📧 **Email:** josecarloszamoragomez2018@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/jos%C3%A9-carlos-zamora-g%C3%B3mez  
-🎨 **Behance:** https://www.behance.net/JoseCarlosZamoraGomez
+🔗 **LinkedIn:** https://www.linkedin.com/in/josé-carlos-zamora-gómez  
+🎨 **Behance:** https://www.behance.net/JoseCarlosZamoraGmez
 
 ---
 
